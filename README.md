@@ -6,3 +6,7 @@
 
 ## Credit:
 [chatterbox](https://github.com/resemble-ai/chatterbox)
+
+## Disclaimer
+Don't use this model to do bad things. 
+
