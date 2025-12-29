@@ -5,4 +5,4 @@
 
 
 ## Credit:
-[Chatbox](https://github.com/chatboxai/chatbox)
+[chatterbox](https://github.com/resemble-ai/chatterbox)
